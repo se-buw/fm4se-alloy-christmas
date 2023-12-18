@@ -1,0 +1,25 @@
+plugins {
+    // Apply the application plugin to add support for building a CLI application in Java.
+    id 'application'
+}
+
+repositories {
+    // Use Maven Central for resolving dependencies.
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.json:json:20210307'
+    
+    implementation files('lib/org.alloytools.alloy.dist.jar')
+    implementation files('lib/org.alloy.helper.jar')
+}
+
+application {
+    // Define the main class for the application.
+    mainClass = 'de.buw.fm4se.Tasks'
+}
+
+run {
+    standardInput = System.in
+}
