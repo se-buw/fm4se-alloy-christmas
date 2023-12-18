@@ -1,0 +1,44 @@
+## WishList
+### :x: Failed: Here is a solution allowed by your predicate, but incorrect:
+```
+
+```
+
+## SecretSanta
+### :x: Failed: Here is a solution allowed by your predicate, but incorrect:
+```
+┌───────────┬──────────┐
+│this/Intern│supervisor│
+├───────────┼──────────┤
+│Employee¹  │          │
+├───────────┼──────────┤
+│Employee²  │          │
+└───────────┴──────────┘
+
+```
+
+## ChristmasTree
+### :x: Failed: Here is a solution allowed by your predicate, but incorrect:
+```
+┌─────────┬─┬─┐
+│this/Tree│x│y│
+├─────────┼─┼─┤
+│Tree⁰    │6│0│
+├─────────┼─┼─┤
+│Tree¹    │6│6│
+├─────────┼─┼─┤
+│Tree²    │6│6│
+├─────────┼─┼─┤
+│Tree³    │6│6│
+├─────────┼─┼─┤
+│Tree⁴    │6│6│
+├─────────┼─┼─┤
+│Tree⁵    │6│2│
+├─────────┼─┼─┤
+│Tree⁶    │6│7│
+├─────────┼─┼─┤
+│Tree⁷    │5│6│
+└─────────┴─┴─┘
+
+```
+
