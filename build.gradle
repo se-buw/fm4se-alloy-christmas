@@ -12,7 +12,7 @@ dependencies {
     implementation 'org.json:json:20210307'
     
     implementation files('lib/org.alloytools.alloy.dist.jar')
-    implementation files('lib/org.alloy.helper.jar')
+    implementation files('lib/fm4se-alloy-christmas-checker.jar')
 }
 
 application {

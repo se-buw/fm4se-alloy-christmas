@@ -3,7 +3,7 @@ package de.buw.fm4se;
 public class Tasks {
 
 	/** Wish List */
-	public static String task_1 = "https://play.formal-methods.net/?check=ALS&p=print-bucked-owl-stony";
+	public static String task_1 = "https://play.formal-methods.net/?check=ALS&p=dreamt-bagful-ample-drab";
 	
 	/** Secret Santa */
 	public static String task_2 = "https://play.formal-methods.net/?check=ALS&p=reggae-chill-replay-spore";

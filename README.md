@@ -7,7 +7,7 @@ This project is part of the lecture Formal Methods for Software Engineering. We 
 
 Help Santa to figure out what he could gift the child. Complete the encoding of the wish list.
 
-Start from this **[Template](https://play.formal-methods.net/?check=ALS&p=print-bucked-owl-stony)**.
+Start from this **[Template](https://play.formal-methods.net/?check=ALS&p=dreamt-bagful-ample-drab)**.
 
 **Submission:** Submit the permalink in [src/main/java/de/buw/fm4se/alloy/Tasks.java (task_1)](src/main/java/de/buw/fm4se/Tasks.java)
 
